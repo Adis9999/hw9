@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import TBody from "./tBody";
+import TBody from "./TBody"
 import { Modal } from "../UI/modal";
 import Button from "../UI/Button";
 
