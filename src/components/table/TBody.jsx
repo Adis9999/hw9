@@ -1,5 +1,5 @@
 import React from "react";
-import TItem from "./tItem";
+import TItem from "./TItem";
 
 const TBody = (props) => {
   return props.users.map((item, index) => {
